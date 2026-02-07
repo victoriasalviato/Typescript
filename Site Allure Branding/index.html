@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Allure Branding — Site</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css"/>
+</head>
+<body>
+  <header class="container">
+    <h1 class="brand">Allure <span>Branding</span></h1>
+    <p class="subtitle">Visual impecável. Marca memorável.</p>
+  </header>
+
+  <main>
+    <!-- Testemunhos -->
+    <section class="container section" id="testemunhos">
+      <h2 class="section-title">O que dizem nossos clientes</h2>
+      <div class="testimonials-grid">
+        <article class="testimonial card anim-enter" data-anim>
+          <div class="avatar">AG</div>
+          <div class="text">
+            <p>“A Allure elevou nosso posicionamento. O site ficou rápido, lindo e direto ao ponto.”</p>
+            <strong>Ana Gomes</strong><span> • CEO, Boutique AG</span>
+          </div>
+        </article>
+
+        <article class="testimonial card anim-enter" data-anim>
+          <div class="avatar">RF</div>
+          <div class="text">
+            <p>“Processo fluido do briefing à publicação. Recomendo sem pensar duas vezes.”</p>
+            <strong>Ricardo Freitas</strong><span> • Diretor, RF Studio</span>
+          </div>
+        </article>
+
+        <article class="testimonial card anim-enter" data-anim>
+          <div class="avatar">MS</div>
+          <div class="text">
+            <p>“A identidade ficou consistente em todos os canais. Atendimento absurdo de bom!”</p>
+            <strong>Marina Souza</strong><span> • Marketing, TrendUp</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- FAQ / SAC -->
+    <section class="container section" id="faq">
+      <h2 class="section-title">SAC • Perguntas Frequentes</h2>
+
+      <div class="faq">
+        <details class="faq-item">
+          <summary class="faq-summary">
+            <span class="faq-q">Como funciona o processo de criação?</span>
+            <button class="faq-toggle" aria-label="alternar">
+              <span class="plus"></span>
+            </button>
+          </summary>
+          <div class="faq-answer">
+            <p>Coletamos briefing, definimos escopo e entregáveis, criamos protótipos e validamos com você a cada etapa.</p>
+          </div>
+        </details>
+
+        <details class="faq-item">
+          <summary class="faq-summary">
+            <span class="faq-q">Qual o prazo médio de entrega?</span>
+            <button class="faq-toggle" aria-label="alternar">
+              <span class="plus"></span>
+            </button>
+          </summary>
+          <div class="faq-answer">
+            <p>Projetos de site institucional levam em média 10–20 dias, dependendo da complexidade e do conteúdo.</p>
+          </div>
+        </details>
+
+        <details class="faq-item">
+          <summary class="faq-summary">
+            <span class="faq-q">Vocês fazem hospedagem e publicação?</span>
+            <button class="faq-toggle" aria-label="alternar">
+              <span class="plus"></span>
+            </button>
+          </summary>
+          <div class="faq-answer">
+            <p>Sim. Entregamos pronto e publicamos em provedores como Netlify, Vercel ou na infraestrutura que você preferir.</p>
+          </div>
+        </details>
+      </div>
+    </section>
+  </main>
+
+  <footer class="container footer">
+    <p>© {year} Allure Branding. Todos os direitos reservados.</p>
+  </footer>
+
+  <script>
+    // Atualiza ano no footer
+    document.addEventListener('DOMContentLoaded', () => {
+      const f = document.querySelector('.footer p');
+      if (f) f.innerHTML = f.innerHTML.replace('{year}', new Date().getFullYear());
+    });
+  </script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
