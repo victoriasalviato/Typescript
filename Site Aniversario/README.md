@@ -1,30 +1,23 @@
-# Parabéns, Maria Eduarda! 🎂
+# Happy Birthday, Maria Eduarda! 🎂
+A birthday celebration website created especially for Maria Eduarda.
 
-Site comemorativo de aniversário criado especialmente para Maria Eduarda.
-
-## 🔗 Acesse o site
-
+## 🔗 Visit the website
 👉 [https://birthdaymaed.netlify.app/](https://birthdaymaed.netlify.app/)
 
-## 📋 Sobre
+## 📋 About
+A special little space made with love to celebrate Maria Eduarda's birthday and her new gifts. The site is organized into navigable sections:
+- **Home** — Happy birthday message and welcome
+- **About the MP3 Player** — Showcase of one of the gifts
+- **The CD Player** — Showcase of another special gift
+- **Letter** — A personal letter for the birthday girl
 
-Um cantinho especial feito com carinho para celebrar o aniversário de Maria Eduarda e seus novos presentes. O site é organizado em seções navegáveis:
-
-- **Início** — Mensagem de feliz aniversário e boas-vindas
-- **Sobre o MP3** — Apresentação de um dos presentes
-- **O Toca CD** — Apresentação de outro presente especial
-- **Carta** — Uma carta pessoal para a aniversariante
-
-## 🚀 Tecnologias
-
+## 🚀 Technologies
 - HTML
 - CSS
 - JavaScript
 
 ## 📦 Deploy
+The site is hosted on [Netlify](https://www.netlify.com/).
 
-O site está hospedado na [Netlify](https://www.netlify.com/).
-
-## 📄 Licença
-
-Projeto pessoal, criado como presente de aniversário. 🎁
+## 📄 License
+Personal project, created as a birthday gift. 🎁
