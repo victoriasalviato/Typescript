@@ -1,25 +1,19 @@
 # Maed Valentine 💖
+Interactive page made for Valentine's Day.
 
-Página interativa de "pedido de namoro" feita para o Valentine's Day.
-
-## 🔗 Acesse o site
-
+## 🔗 Visit the website
 👉 [https://maed-valentine.netlify.app/](https://maed-valentine.netlify.app/)
 
-## 📋 Sobre
+## 📋 About
+A fun and romantic page that asks "Will you be my Valentine?" with two buttons: **Yes** and **No**. The "No" button reacts mischievously (running away, shrinking, or moving across the screen) whenever the user tries to click it, encouraging them to choose "Yes" instead.
 
-Uma página divertida e romântica que faz a pergunta "Quer ser meu Valentine?" com dois botões: **Sim** e **Não**. O botão "Não" reage de forma travessa (foge, encolhe ou se move pela tela) sempre que o usuário tenta clicar nele, incentivando a escolha do "Sim".
-
-## 🚀 Tecnologias
-
+## 🚀 Technologies
 - HTML
 - CSS
 - JavaScript
 
 ## 📦 Deploy
+The site is hosted on [Netlify](https://www.netlify.com/).
 
-O site está hospedado na [Netlify](https://www.netlify.com/).
-
-## 📄 Licença
-
-Projeto pessoal, criado para fins românticos/divertidos. 💕
+## 📄 License
+Personal project, created for romantic/fun purposes. 💕
