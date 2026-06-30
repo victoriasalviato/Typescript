@@ -1,30 +1,23 @@
-# Formatura — Um Novo Começo 🎓
+# Graduation — A New Beginning 🎓
+Digital invitation for Victória Salviato's graduation events.
 
-Convite digital para os eventos de formatura de Victória Salviato.
-
-## 🔗 Acesse o site
-
+## 🔗 Visit the website
 👉 [https://formaturavicveneno.netlify.app/](https://formaturavicveneno.netlify.app/)
 
-## 📋 Sobre
+## 📋 About
+Invitation website created to celebrate Victória Salviato's graduation from Universidade Vila Velha (UVV) — 2026. The page presents an invitation message and details for both events:
+- **Thesis Defense** — Tuesday, June 2, 2026, at 6:00 PM, at the Blue Building (UVV)
+- **Graduation Ceremony** — Monday, July 20, 2026, with the ceremony at 8:00 PM (arrival recommended at 7:00 PM), at the Cineteatro (UVV)
 
-Site-convite criado para celebrar a formatura de Victória Salviato pela Universidade Vila Velha (UVV) — 2026. A página apresenta uma mensagem de convite e os detalhes dos dois eventos:
+It also includes information about vehicle access for the Graduation Ceremony.
 
-- **Defesa de Tese** — Terça-feira, 02 de junho de 2026, às 18h, no Prédio Azul (UVV)
-- **Colação de Grau** — Segunda-feira, 20 de julho de 2026, com cerimônia às 20h (chegada recomendada às 19h), no Cineteatro (UVV)
-
-Também inclui informações sobre acesso de veículos para a Colação de Grau.
-
-## 🚀 Tecnologias
-
+## 🚀 Technologies
 - HTML
 - CSS
 - JavaScript
 
 ## 📦 Deploy
+The site is hosted on [Netlify](https://www.netlify.com/).
 
-O site está hospedado na [Netlify](https://www.netlify.com/).
-
-## 📄 Licença
-
-Projeto pessoal, criado para fins de convite e celebração. 🎉
+## 📄 License
+Personal project, created for invitation and celebration purposes. 🎉
