@@ -1,25 +1,19 @@
-# Alluré Branding — Registro de Marca
+# Alluré Branding — Trademark Registration
+Institutional website showcasing Alluré Branding's trademark registration services.
 
-Site institucional para apresentação de serviços de registro de marca da Alluré Branding.
-
-## 🔗 Acesse o site
-
+## 🔗 Visit the website
 👉 [https://allurebranding.netlify.app/](https://allurebranding.netlify.app/)
 
-## 📋 Sobre
+## 📋 About
+This project presents information about the services offered, making it easier to get in touch and understand the trademark registration process.
 
-Este projeto apresenta informações sobre os serviços oferecidos, facilitando o contato e o entendimento do processo de registro de marca.
-
-## 🚀 Tecnologias
-
+## 🚀 Technologies
 - HTML
 - CSS
 - JavaScript
 
 ## 📦 Deploy
+The site is hosted on [Netlify](https://www.netlify.com/).
 
-O site está hospedado na [Netlify](https://www.netlify.com/).
-
-## 📄 Licença
-
-Este projeto é de uso exclusivo da Alluré Branding.
+## 📄 License
+This project is for the exclusive use of Alluré Branding.
